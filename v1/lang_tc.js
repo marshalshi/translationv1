@@ -234,35 +234,35 @@
             searchKeyword: '以關鍵字搜尋',
             faqs: [
                    {
-                   question: "我可以在商店购物时使用AlvaKids吗？",
-                   answer: "可以！注册alvakids后，您就可以在网站上或手机应用里使用AlvaKids啦！当您更新了帐户或孩子档案，您在网站上和手机应用上的信息也会在同一时间自动更新。",
+                   question: "可否於店內購物時使用AlvaKids？",
+                   answer: "可以！免費登記AlvaKids後可於網上和電話上使用。當你更新了帳戶或孩子檔案時，資料將會同步更新及顯示於電腦和電話上",
                    },{
-                   question: "如何編輯我孩子的個人檔案？",
-                   answer: "如果您想要修改个人档案的内容，只需在孩子的【档案概览】页面点击编辑即可，您就可以对所有已保存的信息进行修改了。",
+                   question: "怎样编辑我孩子的个人档案？",
+                   answer: "如需更加檔案內容，只需於孩子的檔案內按編輯即可，更可以更改你所有的檔案資料。",
                    },{
-                   question: "為什麼要詢問我孩子的種族？",
-                   answer: "當你的孩子成長，AlvaKids的資料亦會根據不同國家的兒童數據作調整，以確保現在甚至將來你都會得到準確的建議。",
+                   question: "为什么AlvaKids要知道我孩子的种族特征？",
+                   answer: "AlvaKids个人档案会随着您孩子一起成长。我们的成长计算公式里里包含了不同种族的成长速率信息，这样保证您无论在现在还是将来都能得到准确的尺码建议。",
                    },{
-                   question: "如何修改我的密码？",
-                   answer: "如需修改密码，在右上角的菜单区域，您会看到您的用户名。只需点击用户名，就能在展开的菜单找到“修改密码”的选项了。点击它，您便会被转到修改密码的页面。",
+                   question: "如何更加我的密碼？",
+                   answer: "如需更改密碼，只須按右上角後點擊你的用戶名稱，即會看到「更改密碼」，按後將連接到更改密碼的畫面。",
                    },{
-                   question: "我忘记密码了，怎么办？",
-                   answer: "如果您丢失了密码，请在主页面点击登录键，在登录区下方您会看到”忘记密码？”四个字。点击它，系统便会要求您输入与这个账户相关联的邮箱地址。提交您的邮箱地址后，我们会给您发送一封包含新密码的邮件。",
+                   question: "我忘記了密碼應該怎麼辦？",
+                   answer: "如忘記了密碼，請在主頁按登入，於下方即可看到「忘記密碼」。點擊後將會要求你填上你登記時的電郵地址，確定後你會收到附有新密碼的電郵供你再次登入。",
                    },{
-                   question: "如何删除孩子的档案？",
-                   answer: "如果您想要删除孩子的个人档案，请点击【档案概览】页面上的编辑按键。在每个孩子的个人档案里，都会有一个“删除档案”按键。点击，即可删除。",
+                   question: "如何刪除孩子的檔案？",
+                   answer: "刪除孩子的檔案只需在「孩子的檔案」按編輯後，在你想刪除的檔案旁按「刪除檔案」即可。",
                    },{
-                   question: "哪里可以取得AlvaKids的最新消息？",
-                   answer: "想要知道更多关于AlvaKids的信息和订阅新资讯的服务，请到我们的Facebook 页面，或关注Twitter @Alvakids，及我们的官方网站www.AlvaKids.com 。",
+                   question: "怎樣取得AlvaKids的最新消息？",
+                   answer: "如欲取得更多AlvaKids的訊息，請到我們<a href='https://www.facebook.com/AlvaKids' target='_blank'>Facebook</a>、關注Twitter <a href='https://twitter.com/AlvaKids' target='_blank'>@AlvaKids</a>或到<a href='http://www.alvakids.com/' target='_blank'>www.AlvaKids.com</a>查看我們更多資訊及訂閱我們的最新消息。",
                    },{
-                   question: "我的问题在这里找不到？",
-                   answer: "如果您的问题在这里找不到，请您的问题和您的电子邮箱地址发送给我们，我们会尽快答复您。",
+                   question: "如我有其他疑問該怎麼辦？",
+                   answer: "如你有其他疑問的話，請告知你的疑問及電郵地址於右方，我們會儘管回應。",
                    },{
-                   question: "我孩子的身形超过了这个应用的范围？",
-                   answer: "AlvaKids是一款针对年龄小于16岁的孩子设计的应用。有些孩子成长速度较快，可能超过了儿童的尺码范围。这种情况下，我们没办法给您提供尺码建议。这种情况下，我们建议您使用我们的AlvaFit成人服装尺码推荐服务。",
+                   question: "我的孩子年齡較大該怎樣申請呢？",
+                   answer: "AlvaKids是一款針對年齡小於16歲的孩子設計的應用。有些孩子成長速度較快，可能超過了兒童的尺碼範圍。這種情況下，我們沒辦法給您提供尺碼建議。這種情況下，我們建議您使用我們的<a href='http://www.alvafit.com'>AlvaFit</a>成人服裝尺碼推薦服務。",
                    },{
-                   question: "AlvaKids會將我的資料作甚麼用途呢？",
-                   answer: "我们会小心的保管您的信息，详情请参考隐私声明和使用条款。",
+                   question: "Alvakids会用我的信息做什么用途？",
+                   answer: "我們會小心處理你的個人資料，詳情請見<a href='http://www.alvakids.com/privacy_policy.html' target='_blank'>私隱聲明</a>及<a href='http://www.alvakids.com/terms_of_use.html' target='_blank'>使用條款</a>。",
                    }
             ]
         },

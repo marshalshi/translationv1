@@ -254,16 +254,16 @@
                    answer: 'On een profiel van een kind te verwijderen kunt u, op de eerste pagina die u ziet na het inloggen, naast het profiel dat u wenst te verwijderen op "wijzigen" klikken. Dit zal het complete profiel van het kind openen waarin u de knop "verwijder profiel" zult zien. Als u op deze knop klikt zult u het complete profiel van het kind verwijderen.',
                    },{
                    question: "Waar kan ik nieuws over AlvaKids krijgen?",
-                   answer: "Om op de hoogte te blijven van alles over AlvaKids, kunt u fan van ons worden op Facebook, ons volgen op twitter @AlvaKids of naar onze website www.AlvaKids.com gaan en u inschrijven voor onze nieuwsbrief.",
+                   answer: "Om op de hoogte te blijven van alles over AlvaKids, kunt u fan van ons worden op <a href='https://www.facebook.com/AlvaKids' target='_blank'>Facebook</a>, ons volgen op twitter <a href='https://twitter.com/AlvaKids' target='_blank'>@AlvaKids</a> of naar onze website <a href='http://www.alvakids.com/' target='_blank'>www.AlvaKids.com</a> gaan en u inschrijven voor onze nieuwsbrief.",
                    },{
                    question: "Wat als uw vraag er niet tussen staat?",
                    answer: "Indien uw vraag ontbreekt, kunt u deze vraag en uw emailadres aan ons doorgeven. Gelieve deze aan de rechterkant in te vullen en dan zullen wij zo spoedig mogelijk contact met u opnemen.",
                    },{
                    question: "Wat als mijn kind te groot is voor AlvaKids?",
-                   answer: "AlvaKids is bedoeld voor jongens en meisjes onder de 16 jaar oud. Sommige kinderen zullen echter op jongere leeftijd al te groot zijn voor AlvaKids en dan zullen wij geen goede aanbelelingen kunnen maken. Voor deze kinderen wijzen wij u graag op onze service voor volwassenen AlvaFit.",
+                   answer: "AlvaKids is bedoeld voor jongens en meisjes onder de 16 jaar oud. Sommige kinderen zullen echter op jongere leeftijd al te groot zijn voor AlvaKids en dan zullen wij geen goede aanbelelingen kunnen maken. Voor deze kinderen wijzen wij u graag op onze service voor volwassenen <a href='http://www.alvafit.com'>AlvaFit</a>.",
                    },{
                    question: "Wat doet AlvaKids met mijn informatie?",
-                   answer: "Wij zullen uw gegevens met zorg behandelen. Voor alle informatie verwijzen we u naar ons privacybeleid en onze gebruiksvoorwaarden.",
+                   answer: "Wij zullen uw gegevens met zorg behandelen. Voor alle informatie verwijzen we u naar ons <a href='http://www.alvakids.com/privacy_policy.html' target='_blank'>privacybeleid</a> en onze <a href='http://www.alvakids.com/terms_of_use.html' target='_blank'>gebruiksvoorwaarden</a>.",
                    }
             ]
         },

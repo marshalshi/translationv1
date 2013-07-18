@@ -254,16 +254,16 @@
                    answer: "To delete a kid's profile simply click Edit on the Kids's Profile Overview page and select the 'Delete Profile' option in the profile you would like to delete. Your child's profile will then be deleted from your account.",
                    },{
                    question: "Where can I get news on AlvaKids?",
-                   answer: "To learn more about AlvaKids go to our Facebook page, follow us on Twitter @AlvaKids or visit www.AlvaKids.com to find out more about our service and to subscribe to our newsletter.",
+                   answer: 'To learn more about AlvaKids go to our <a href="https://www.facebook.com/AlvaKids" target="_blank">Facebook</a> page, follow us on Twitter <a href="https://twitter.com/AlvaKids" target="_blank">@AlvaKids</a> or visit <a href="http://www.alvakids.com/" target="_blank">www.AlvaKids.com</a> to find out more about our service and to subscribe to our newsletter.',
                    },{
                    question: "What if my question is not here?",
                    answer: "If your question is not here, please send us your question and your e-mail address on the right hand side and we will get back to you as soon as possible.",
                    },{
                    question: "What if my kid is too big for AlvaKids?",
-                   answer: "AlvaKids is for girls and boys under the age of 16. Some younger kids may be too large for AlvaKids in which case we will not be able to generate a recommendation. For these kids we refer you to our adult sizing recommendation service called AlvaFit.",
+                   answer: 'AlvaKids is for girls and boys under the age of 16. Some younger kids may be too large for AlvaKids in which case we will not be able to generate a recommendation. For these kids we refer you to our adult sizing recommendation service called <a href="http://www.alvafit.com">AlvaFit</a>.",
                    },{
                    question: "What does AlvaKids do with my information?",
-                   answer: "We will handle your information with care, for more information please look at the privacy policy and the terms of use.",
+                   answer: 'We will handle your information with care, for more information please look at the <a href="http://www.alvakids.com/privacy_policy.html" target="_blank">privacy policy</a> and <a href="http://www.alvakids.com/terms_of_use.html" target="_blank">the terms of use</a>.',
                    },
                 ]
         },

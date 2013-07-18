@@ -253,16 +253,16 @@
                    answer: "Dans le cas ou vous souhaiteriez supprimer un profil enfant, cliquez \"Modifier\" sur ce profil sur la page principale des profils. Sur les pages dédiée à chaque profil vous trouverez alors le bouton \"Supprimer ce profil\". Une fois supprimé, vous n'aurez plus accès au profil en question.",
                    },{
                    question: "Comment puis-je recevoir les nouveautés d'AlvaKids?",
-                   answer: "Pour en savoir plus au sujet d'AlvaKids, vous pouvez visiter notre page Facebook, nous suivre sur twitter (@AlvaKids) ou jeter un oeil à www.AlvaKids.com. Vous trouverez alors plus d'informations au sujet de nos services et vous pourrez vous inscrire a notre newsletter.",
+                   answer: "Pour en savoir plus au sujet d'AlvaKids, vous pouvez visiter notre page <a href='https://www.facebook.com/AlvaKids' target='_blank'>Facebook</a>, nous suivre sur twitter (<a href='https://twitter.com/AlvaKids' target='_blank'>@AlvaKids</a>) ou jeter un oeil à <a href='http://www.alvakids.com/' target='_blank'>www.AlvaKids.com</a>. Vous trouverez alors plus d'informations au sujet de nos services et vous pourrez vous inscrire a notre newsletter.",
                    },{
                    question: "Que fais-je si ma question n'est pas dans cette liste?",
                    answer: "Dans le cas ou vous ne trouvez pas votre question, vous pouvez nous l'envoyer grâce au formulaire sur la droite, nous vous répondrons dans les plus brefs délais.",
                    },{
                    question: "Que faire dans le cas où mon enfant est trop grand pour l'application?",
-                   answer: "AlvaKids est une application destinée aux filles et garçons jusqu'à l'âge de 16 ans. Il se peut également que certains enfants soient trop corpulents pour porter des tailles enfants, dans ce cas AlvaKids ne sera pas à même de générer une indication de taille. Pour ces enfants, nous vous conseillons alors de vous référer à notre service d'indication de taille pour adulte, AlvaFit.",
+                   answer: "AlvaKids est une application destinée aux filles et garçons jusqu'à l'âge de 16 ans. Il se peut également que certains enfants soient trop corpulents pour porter des tailles enfants, dans ce cas AlvaKids ne sera pas à même de générer une indication de taille. Pour ces enfants, nous vous conseillons alors de vous référer à notre service d'indication de taille pour adulte, <a href='http://www.alvafit.com'>AlvaFit</a>.",
                    },{
                    question: "Que fait AlvaKids avec mes données?",
-                   answer: "Nous prenons grand soin de vos données, pour plus d'informations à ce sujet, veuillez vous référer à notre politique de confidentialité ainsi qu'à nos conditions d'utilisation.",
+                   answer: "Nous prenons grand soin de vos données, pour plus d'informations à ce sujet, veuillez vous référer à notre <a href='http://www.alvakids.com/privacy_policy.html' target='_blank'>politique de confidentialité</a> ainsi qu'à nos <a href='http://www.alvakids.com/terms_of_use.html' target='_blank'>conditions d'utilisation</a>.",
                    }
             ]
         },

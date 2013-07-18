@@ -253,16 +253,16 @@
                    answer: 'Para eliminar el perfil de un niño, simplemente cliquee en "Editar perfil" en la página principal de los perfiles y seleccione la opción "Eliminar el perfil" en el perfil que desea eliminar. El perfil de su hijo se eliminará de su cuenta.',
                    },{
                    question: "¿Cómo puedo recibir las novedades sobre AlvaKids?",
-                   answer: "Para saber más sobre AlvaKids, puede visitar nuestra página Facebook, seguirnos en twitter (@AlvaKids) o consultar nuestro sitio www.AlvaKids.com. Encontrara más informaciones sobre nuestros servicios y podrá suscribirse a nuestro newsletter.",
+                   answer: "Para saber más sobre AlvaKids, puede visitar nuestra página <a href='https://www.facebook.com/AlvaKids' target='_blank'>Facebook</a>, seguirnos en twitter (<a href='https://twitter.com/AlvaKids' target='_blank'>@AlvaKids</a>) o consultar nuestro sitio <a href='http://www.alvakids.com/' target='_blank'>www.AlvaKids.com</a>. Encontrara más informaciones sobre nuestros servicios y podrá suscribirse a nuestro newsletter.",
                    },{
                    question: "¿Qué hago si no he encontrado mi pregunta?",
                    answer: "Si su pregunta no está aquí, por favor mandenos su pregunta y su dirección de e-mail en la parte derecha y responderemos lo más pronto posible.",
                    },{
                    question: "¿Qué hago si mi hijo es demasiado gran para la aplicación?",
-                   answer: "AlvaKids es una aplicación para los chicos y chicas hasta 16 años de edad. Algunos niños pueden ser demasiado grandes para las tablas de talla que AlvaKids utiliza. En este caso no será capaz de generar una indicación de talla. Para estos chicos, le aconsejamos que consulte a nuestro servicio de indicación de talla para adulto, AlvaFit.",
+                   answer: "AlvaKids es una aplicación para los chicos y chicas hasta 16 años de edad. Algunos niños pueden ser demasiado grandes para las tablas de talla que AlvaKids utiliza. En este caso no será capaz de generar una indicación de talla. Para estos chicos, le aconsejamos que consulte a nuestro servicio de indicación de talla para adulto, <a href='http://www.alvafit.com'>AlvaFit</a>.",
                    },{
                    question: "¿Qué hace AlvaKids con mis informaciones?",
-                   answer: "Cuidamos mucho con sus informaciones. Si quirere saber más sobre ese tema, por favor, consulte nuestra política de privacidad y nuestras condiciones de uso.",
+                   answer: "Cuidamos mucho con sus informaciones. Si quirere saber más sobre ese tema, por favor, consulte nuestra <a href='http://www.alvakids.com/privacy_policy.html' target='_blank'>política de privacidad</a> y nuestras <a href='http://www.alvakids.com/terms_of_use.html' target='_blank'>condiciones de uso</a>.",
                    }
                 ]
         },
