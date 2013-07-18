@@ -260,7 +260,7 @@
                    answer: "If your question is not here, please send us your question and your e-mail address on the right hand side and we will get back to you as soon as possible.",
                    },{
                    question: "What if my kid is too big for AlvaKids?",
-                   answer: 'AlvaKids is for girls and boys under the age of 16. Some younger kids may be too large for AlvaKids in which case we will not be able to generate a recommendation. For these kids we refer you to our adult sizing recommendation service called <a href="http://www.alvafit.com">AlvaFit</a>.",
+                   answer: 'AlvaKids is for girls and boys under the age of 16. Some younger kids may be too large for AlvaKids in which case we will not be able to generate a recommendation. For these kids we refer you to our adult sizing recommendation service called <a href="http://www.alvafit.com">AlvaFit</a>.',
                    },{
                    question: "What does AlvaKids do with my information?",
                    answer: 'We will handle your information with care, for more information please look at the <a href="http://www.alvakids.com/privacy_policy.html" target="_blank">privacy policy</a> and <a href="http://www.alvakids.com/terms_of_use.html" target="_blank">the terms of use</a>.',

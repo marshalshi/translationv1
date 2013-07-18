@@ -226,7 +226,7 @@
         kidsProfiles: {
             intro: "We hebben het profiel van uw kind laten groeien in ons systeem. Gelieve het profiel te verifiëren om ervoor te zorgen dat de informatie klopt met de huidige afmetingen van uw kind.",
             add: 'Klik hier om een profiel toe te voegen',
-            kidsImgAlt: 'uw kind's profiel',
+            kidsImgAlt: "uw kind's profiel",
             height: 'Lengte',
             weight: 'Gewicht',
         },
